@@ -1,2 +1,5 @@
 Aperte a tecla "i" para entrar no modo de edição
 
+Testando aula 09-03
+
+Para sair esc + :wq
